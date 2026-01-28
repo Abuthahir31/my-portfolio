@@ -2,7 +2,7 @@
   "name": "syed-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Abuthahir31/my-portfolio",
+  "homepage": "https://abuthahir31.github.io/syed-portfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
