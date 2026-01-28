@@ -35,7 +35,7 @@ const skills = {
     color: '#10b981'
   },
   'Tools & Platforms': {
-    items: ['GitHub', 'VS Code', 'Postman', 'Vercel', 'Netlify', 'Hostinger'],
+    items: ['Git', 'GitHub', 'VS Code', 'Postman', 'Vercel', 'Netlify', 'Hostinger'],
     icon: '🛠️',
     color: '#f59e0b'
   },
