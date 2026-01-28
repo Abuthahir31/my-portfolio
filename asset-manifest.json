@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/syed-portfolio/static/css/main.032c8026.css",
+    "main.js": "/syed-portfolio/static/js/main.357ed344.js",
+    "static/media/profile.jpg": "/syed-portfolio/static/media/profile.c07a44517128d4a16c09.jpg",
+    "index.html": "/syed-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.032c8026.css",
+    "static/js/main.357ed344.js"
+  ]
+}
